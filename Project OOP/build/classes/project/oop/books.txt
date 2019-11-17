@@ -1,0 +1,4 @@
+Book1*Ramy1*Horror*26*8
+Book2*Ramy2*Novel*25*5
+4*5*Item 3*7*11
+7*8*Item 7*90*1
